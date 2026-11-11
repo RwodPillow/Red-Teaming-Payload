@@ -1,6 +1,6 @@
 # Red Teaming Payload
 
-Personal red team repo — USB drop simulation, file exfiltration via webhook, and ransomware PoC with decryptor. Built for security research and awareness demonstrations.
+Personal red team repo — USB drop simulation, file exfiltration via webhook, and ransomware PoC with decryptor.
 
 > **For authorized security testing and research only. Do not use on systems without explicit written permission.**
 
